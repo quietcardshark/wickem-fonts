@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Pilowlava';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/Pilowlava-Regular.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BladeGoth';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/BladeGoth.ttf') format('truetype');
+  font-display: swap;
+}
+
+/* Add more fonts as needed */
