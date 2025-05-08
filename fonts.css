@@ -10,4 +10,62 @@
   font-display: swap;
 }
 
-/* Add more fonts as needed */
+@font-face {
+  font-family: 'BodyworkDEMO';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/BodyworkDEMO.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Larthez';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/Larthez.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mondaycoldness';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/Mondaycoldnesssnowfreevertion-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ouvrieres';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/Ouvrieres-rassasiees.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PunkCyber';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/PunkCyberDEMO-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'QroikGrasie';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/Qroik%20Grasie.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'RetroFunky';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/RetroFunky-Regular.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Spraystrom';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/Spraystrom%20Demo.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Uplifts';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/Uplifts%20DEMO.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'VintageBlack';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/VintageBlack.otf') format('opentype');
+  font-display: swap;
+}
