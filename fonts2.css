@@ -63,3 +63,9 @@
   src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/VintageBlack.otf') format('opentype');
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'Sugarpunch';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/SugarpunchDEMO.otf') format('opentype');
+  font-display: swap;
+}
