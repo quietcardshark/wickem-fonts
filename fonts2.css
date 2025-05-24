@@ -69,3 +69,9 @@
   src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/SugarpunchDEMO.otf') format('opentype');
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'Blanka';
+  src: url('https://cdn.jsdelivr.net/gh/quietcardshark/wickem-fonts@latest/Blanka-Regular.woff') format('woff');
+  font-display: swap;
+}
